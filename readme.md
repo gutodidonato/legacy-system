@@ -29,11 +29,7 @@ LegacyRefactor/
 
 ## Como Executar o Projeto
 
-### Clone o repositório:
-
 ```bash
-git clone https://github.com/seu-usuario/legacy-refactor.git
-cd legacy-refactor
 dotnet restore
 dotnet build
 dotnet run --project LegacyRefactor
