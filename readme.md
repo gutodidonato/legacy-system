@@ -19,7 +19,7 @@ LegacyRefactor/
 │   └── DataContext.cs
 └── Program.cs                  # Ponto de entrada da aplicação
 
-
+```
 # Tecnologias Utilizadas
 
 - **.NET Core**: Framework utilizado para a aplicação e API.
@@ -37,3 +37,4 @@ cd legacy-refactor
 dotnet restore
 dotnet build
 dotnet run --project LegacyRefactor
+```
